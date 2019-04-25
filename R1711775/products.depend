@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1555930451 source:c:\users\ufi\desktop\new folder\codeblocks\products\main.cpp
+	"Products.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1555925512 c:\users\ufi\desktop\new folder\codeblocks\products\products.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
+1555925616 source:c:\users\ufi\desktop\new folder\codeblocks\products\products.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	"Products.h"
+
